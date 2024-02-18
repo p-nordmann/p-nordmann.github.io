@@ -33,13 +33,13 @@ weight = 30
 [Languages.en-us.params]
 sitename = 'Pierre-Louis Nordmann'
 defaultColor = 'auto'
-description = "Pierre-Louis Nordmann's blog. Software engineer, Machine Learning and Math enthusiast."
+description = "Pierre-Louis Nordmann's blog. Software engineer; machine learning and math enthusiast."
 mainSections = ['posts']
 
 [Languages.en-us.params.author]
 name = 'Pierre-Louis Nordmann'
 intro = "Pierre-Louis' blog"
-description = "Welcome to my blog! I am a software engineer, Machine Learning and Math enthusiast."
+description = "Welcome to my blog. I am a software engineer and also a machine learning and math enthusiast."
 
 [params]
 defaultColor = '#aaa'
