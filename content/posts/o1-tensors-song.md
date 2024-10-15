@@ -1,7 +1,7 @@
 ---
 title: "O1's Tensors Song"
 date: 2024-10-15T10:00:00Z
-draft: true
+draft: false
 ---
 
 # O1's Tensors Song
