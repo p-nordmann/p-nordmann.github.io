@@ -4,8 +4,6 @@ date: 2024-10-15T10:00:00Z
 draft: false
 ---
 
-# O1's Tensors Song
-
 The other day, I had o1-preview write a parodic song. It is heavily inspired by *Human* from The Killers and had only two more constraints:
 - It had to be written from an AI's point-of-view.
 - The lyrics "Are we human, or are we dancer?" had to be replaced by the lyrics "Are we human, or are we tensors?".
