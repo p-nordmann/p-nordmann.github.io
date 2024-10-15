@@ -1,4 +1,4 @@
 resources
 *.swp
 .hugo_build.lock
-
+public
