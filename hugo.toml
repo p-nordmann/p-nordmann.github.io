@@ -30,8 +30,8 @@ mainSections = ['posts']
 
 [params.author]
 name = 'Pierre-Louis Nordmann'
-intro = "Pierre-Louis' blog"
-description = "Welcome to my blog. I am a software engineer and also a machine learning and math enthusiast."
+intro = "Blog"
+description = "Pierre-Louis -- Software Engineer -- Machine learning and math enthusiast."
 
 [[params.socialIcons]]
 name = 'github'
